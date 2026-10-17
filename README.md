@@ -1,8 +1,8 @@
 ### Muhammad Anees
 
-Full Stack Engineer in Islamabad. I build payment platforms and backend systems that hold up under real traffic.
+AI-Native Full Stack Engineer in Islamabad. 3+ years building fintech, telecom and government platforms.
 
-Now on .NET 9, ABP.io and Angular micro-frontends at Systems Limited. Before that, fintech and telco platforms for African markets at DPL / AXIAN Group.
+Now building Saudi tourism licensing and visa platforms at Systems Limited. .NET 9, ABP.io, Angular micro-frontends, DDD across microservices. I ship inside a multi-agent AI workflow with Cursor.
 
 <samp>
 <a href="https://byanees.com">site</a> ·
@@ -10,16 +10,27 @@ Now on .NET 9, ABP.io and Angular micro-frontends at Systems Limited. Before tha
 <a href="https://byanees.com/blog">notes</a> ·
 <a href="https://linkedin.com/in/byaneees">linkedin</a> ·
 <a href="https://x.com/aneeesdev">x</a> ·
-<a href="https://byanees.com/contact">contact</a>
+<a href="mailto:hello@byanees.com">email</a>
 </samp>
+
+#### Now — Systems Limited
+
+- Multi-agent Cursor workflow: orchestrator, backend, frontend, code-review and security agents
+- **10+** government and third-party integrations, with retries, timeouts and idempotent writes
+- Bilingual (AR/EN) email, SMS and in-app notifications, resolved per recipient
+- Investor and government analytics dashboards for a national visa-by-package platform
+- HyperPay card registration and replacement flow, end to end
+- **20+** production incidents fixed in L3 hypercare, inside an 8–10 hour SLA
 
 #### In production
 
 | Result | Case study |
 |---|---|
-| **700–800k** push notifications per run, sent in 6–8 minutes | [Bulk push scheduler →](https://byanees.com/portfolio/bulk-push-notification-scheduler) |
-| **600k+** concurrent sessions on one multiplexed Redis connection | [Redis multiplexing →](https://byanees.com/portfolio/redis-connection-multiplexing) |
+| **700–800k** push notifications per run, sent in 7–8 minutes | [Bulk push scheduler →](https://byanees.com/portfolio/bulk-push-notification-scheduler) |
+| **600k+** concurrent sessions without Redis pool exhaustion | [Redis multiplexing →](https://byanees.com/portfolio/redis-connection-multiplexing) |
 | **4,000+** merchants on Request to Pay, over app and USSD | [Request to Pay →](https://byanees.com/portfolio/request-to-pay) |
+
+Before Systems: telecom agent apps for Tanzania and Togo at DPL. SIM registration, SIM swap, airtime and bundles, TLV-encoded QR payments, bus ticketing across 100+ routes in Mixx Tanzania.
 
 #### Recent notes
 
@@ -31,8 +42,9 @@ Now on .NET 9, ABP.io and Angular micro-frontends at Systems Limited. Before tha
 
 #### Stack
 
-**Backend** — C#, .NET 9, ABP.io, EF Core, SQL Server, PostgreSQL, Redis  
-**Frontend** — Angular, React, Next.js, TypeScript  
-**Payments** — EMV QR (TLV), HyperPay, Stripe  
-**Infra** — Docker, Kubernetes, Jenkins, GitHub Actions, Azure DevOps, AWS, ELK  
-**Also** — Node.js, Express, MongoDB, WSO2
+**Backend** — C#, .NET 9, ABP.io, .NET Aspire, EF Core, PostgreSQL, Redis, Node.js  
+**Frontend** — Angular, React, Next.js, micro-frontends, TypeScript, Redux Toolkit, Tailwind CSS  
+**Architecture** — Microservices, DDD, Clean Architecture, REST, WebSockets  
+**Payments** — HyperPay, Stripe, EMV QR (TLV)  
+**Infra** — Docker, Kubernetes, Jenkins, GitHub Actions, AWS (EC2, S3, SQS, Lambda), ELK, WSO2, Nginx  
+**AI workflow** — Cursor multi-agent setup, structured prompts with scoped context
