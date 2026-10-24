@@ -7,7 +7,7 @@ AI-Native Full Stack Engineer in Islamabad. 3+ years shipping fintech, telecom a
 <a href="https://byanees.com/portfolio">case studies</a> ·
 <a href="https://byanees.com/blog">notes</a> ·
 <a href="https://linkedin.com/in/byaneees">linkedin</a> ·
-<a href="https://x.com/aneeesdev">x</a> ·
+<a href="https://x.com/byaneees">x</a> ·
 <a href="mailto:hello@byanees.com">hello@byanees.com</a>
 </samp>
 
